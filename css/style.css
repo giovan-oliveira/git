@@ -1,0 +1,76 @@
+.header {
+    background-color: orangered;
+    height: 20em;
+}
+
+.header nav {
+    background-color: orangered;
+}
+
+.procura {
+    color: #000000;
+}
+
+.titulo {
+    color: #eeeeee;
+    padding-top: 5em;
+}
+
+.mudapesquisa a {
+    padding-left: 38em;
+    color: white;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item:focus .nav-link,
+.navbar-light .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+.card-title {
+    color: orange;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.cartoes-cervejas {
+    padding: 3em;
+}
+
+.bg-dark {
+    background-color: orangered !important;
+}
+
+.advancedlink a {
+    color: #ffffff;
+    margin-top: 2em;
+}
+
+.advancedlink {
+    padding-top: 0.5em;
+}
+
+.card {
+    max-width: 90%!important;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+}
+
+
+/* resolve problema dos tamanho das imagens */
+
+.smallimg {
+    width: 40%;
+    height: 60%;
+}
